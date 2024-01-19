@@ -74,4 +74,4 @@ TailPay is released under the [MIT License](LICENSE). Feel free to use, modify, 
 
 ---
 
-Thank you for choosing TailPay for your payment processing frontend. We hope it enhances your web application's user experience and simplifies the integration of RazorPay functionalities.
+Thank you for choosing TailPay for your payment processing frontend. I hope it enhances your web application's user experience and simplifies the integration of RazorPay functionalities.
